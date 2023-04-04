@@ -1,6 +1,8 @@
+# Chapter 1
+
 ## Opportunities/ challenges
 1. traditional data-oriented scientific and engineerig fields.
-2. non-traditional data engineering damians such as **socia science, business** and **management**.
+2. non-traditional data engineering damians such as **social science, business** and **management**.
 3. statistics and mathematics, artificial intelligences, etc
 
 * Yet, they have never been adequatedlu addressed in classic methodelogies, theories, systems, tools, applications and economy
@@ -43,7 +45,59 @@ The process of ectracting meaningful information from data using various tools a
 * 解决descriptive analytics不能解决的问题
 * enquire an **in-depth underatanding** of why and how things have happened, are happening, or will happen. 
 
-3. **Key feature and trends** 主要发展方向/趋势/特点
+3. **Key feature** 关键特征
+- **Physical existence** - Datafication is ubiquitous, and data quantification is ever-increasing
+- **Complexities** - Data complexities cannot be handled by classic theories and systems
+- **Strategic values** 战略价值
+    - Data becomes a strategic asset
+    - Openness becomes a new paradigm and fashion
+- **Research and development** - Data science research and innovation drive a new scientific 
+agenda
+
+4. **Trends** 发展趋势
+- Start-up business
+    - Data-driven strategic data initiatives and start-ups start to dominate new business
+- Job market
+    - Data scientist becomes a new profession
+- Business and economy
+    - Data drives both the new data economy and traditional industry transformation
+    - Google (Alphabet), Facebook (Meta), Amazon
+    - New products, systems and services in social media, mobile apps, online business, and IoT
+
+- Disciplinary maturity
+    - Data science becomes a new discipline, and data science is interdisciplinary (integrating knowledge and methods from different disciplines, using a real synthesis of approaches.)
+
+**Relationship between five key concept**
+- Data, information, knowledge, intelligence, wisdom
+**加个图**
+
+
+# Chapter 2
+## Information Science & Data Science
+- Information science   
+Interdisciplinary(跨学科的) field that is concerned with 
+information access, collection, storage, retrieval, 
+processing, analysis, protection, presentation and 
+publishing.
+- 3 major sub-areas directly relevant to data science    
+    1. Analysis and Processing (AP)
+    Classic AP mainly relies on mathematical and statistical concepts, methods and tools
+    e.g. tensor, regression, clustering, etc.
+    * Information analysis and processing -> a new generation, containing typical subareas such as data mining, data analytics, and ML. (intelligence science)
+    2. Informaics 
+    - concerns the transformation of information into knowledge 信息 -> 知识
+    3. ICT( information and communications technology) including software engineering, informaion systems and networking for data science.  
+- Analysis and Processing have evolved and have expanded 
+to new areas:
+    1. Computational intelligence (CI), pattern recognition, data mining, machine learning, computer vision, and various data analytics (multimedia analytics)
+    2. Engine of today's data science/ key stone of ICT:    
+    Recognition, mining, analytics and learning
+
+## Computing for data science 
+**Relevent computing capabilities** 相关应用：
+Infrastructure, algorithm design, data structure, computational complexity, programming (with R or Python), data management, enterprise application 
+development, etc.
+
+- R: for data analysis, developing statistical software
 - 
-
-
+Ch.2  P 15
